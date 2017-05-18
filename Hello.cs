@@ -9,4 +9,11 @@ namespace Program
 	{
 		return op1 - op2;
 	}
+
+
+	
+	public void AddMethod(int T, int V)
+	{
+		return T+V;	
+	}
 }
