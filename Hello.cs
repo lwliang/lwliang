@@ -5,4 +5,8 @@ namespace Program
 	{
 		Console.WriteLine("Hello,World!");
 	}
+	public void SubMethod(int op1, int op2)
+	{
+		return op1 - op2;
+	}
 }
