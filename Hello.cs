@@ -5,4 +5,9 @@ namespace Program
 	{
 		Console.WriteLine("Hello,World!");
 	}
+	
+	public void AddMethod(int T, int V)
+	{
+		return T+V;	
+	}
 }
